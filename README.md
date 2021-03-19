@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **admin@leanhduc.pro.vn**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&show_icons=true" alt="leanhducprovn" /> </p>
 
 <p align="center">
