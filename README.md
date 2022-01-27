@@ -9,7 +9,7 @@
 
 -   🌱 I’m currently learning **C/C++/C#, Python, Java, HTML/CSS,/Javascript, Node & Express JS, PHP...**
 
--   👨🏻‍💻 I’m looking to collaborate on [Sata](https://sata.code.pro.vn/)
+-   🛠 I’m looking to collaborate on [Sata Forum](https://sata.code.pro.vn/)
 
 -   🖥 All of my projects are available at [https://www.code.pro.vn/](https://www.code.pro.vn/)
 
