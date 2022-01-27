@@ -79,6 +79,6 @@
         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></td>
     </tr>
     <tr>
-        <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&bg_color=ffffff&color=0969da&line=0969da&point=e63946&area_color=008000&area=true" alt="leanhducprovn" /></td>
+        <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&bg_color=ffffff&color=0969da&line=0969da&point=e63946&area_color=1e88e5&area=true" alt="leanhducprovn" /></td>
     </tr>
 </table>
