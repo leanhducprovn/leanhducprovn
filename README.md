@@ -76,7 +76,7 @@
         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&show_icons=true&locale=en" alt="leanhducprovn" /></td>
     </tr>
     <tr>
-        <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></td>
+        <td colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></td>
     </tr>
     <tr>
         <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&bg_color=ffffff&color=0969da&line=0969da&point=e63946&area=true&area_color=0969da" alt="leanhducprovn" /></td>
