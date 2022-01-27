@@ -74,7 +74,7 @@
     <tr>
         <td>
             <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leanhducprovn&show_icons=true&locale=en&layout=compact" alt="leanhducprovn" /> -->
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" />
+            <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leanhducprovn&date_format=M%20j%5B%2C%20Y%5D&fire=0969DA&currStreakLabel=0969DA&ring=0969DA" alt="leanhducprovn" />
         </td>
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&show_icons=true&locale=en" alt="leanhducprovn" />
