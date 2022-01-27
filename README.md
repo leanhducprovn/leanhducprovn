@@ -74,6 +74,6 @@
         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&show_icons=true&locale=en" alt="leanhducprovn" /></td>
     </tr>
     <tr>
-        <td colspan="2"><center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></center></td>
+        <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></td>
     </tr>
 </table>
