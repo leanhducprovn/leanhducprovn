@@ -77,6 +77,8 @@
     </tr>
     <tr>
         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></td>
-        
+    </tr>
+    <tr>
+        <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn" alt="leanhducprovn" /></td>
     </tr>
 </table>
