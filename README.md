@@ -9,19 +9,11 @@
 
 -   💻 I’m currently working on [Code Pro](https://www.code.pro.vn/)
 
--   🌱 I’m currently learning **C/C++/C#, Python, Java, HTML/CSS,/Javascript, Node & Express JS, PHP...**
-
--   🛠 I’m looking to collaborate on [Sata Forum](https://sata.code.pro.vn/)
-
--   🖥 All of my projects are available at [https://www.code.pro.vn/](https://www.code.pro.vn/)
+-   🌱 I’m looking to collaborate on [Sata Forum](https://sata.code.pro.vn/)
 
 -   📝 I regularly write articles on [https://www.code.pro.vn/](https://www.code.pro.vn/)
 
--   💬 Ask me about **C/C++/C#, Python, Java, HTML/CSS,/Javascript, Node & Express JS, PHP...**
-
 -   📫 How to reach me **contacts.codepro@gmail.com**
-
--   📄 Know about my experiences [https://www.bụt.vn/](https://www.bụt.vn/)
 
 -   ⚡ Fun fact **I think I'm careful and meticulous**
 
