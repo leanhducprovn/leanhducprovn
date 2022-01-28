@@ -66,16 +66,16 @@
     <tr>
         <td>
             <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leanhducprovn&show_icons=true&locale=en&layout=compact" alt="leanhducprovn" /> -->
-            <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leanhducprovn&date_format=M%20j%5B%2C%20Y%5D&fire=5195f0&currStreakLabel=5195f0&ring=5195f0" alt="leanhducprovn" />
+            <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leanhducprovn&date_format=M%20j%5B%2C%20Y%5D&fire=0969DA&currStreakLabel=0969DA&ring=0969DA" alt="leanhducprovn" />
         </td>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&show_icons=true&locale=en" alt="leanhducprovn" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&show_icons=true&locale=en&icon_color=0969DA" alt="leanhducprovn" />
         </td>
     </tr>
     <!-- <tr>
         <td align="center" colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></td>
     </tr> -->
     <tr>
-        <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&bg_color=ffffff&color=5195f0&line=5195f0&point=e63946&area=true&area_color=5195f0" alt="leanhducprovn" /></td>
+        <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&bg_color=ffffff&color=0969da&line=0969da&point=e63946&area=true&area_color=0969da" alt="leanhducprovn" /></td>
     </tr>
 </table>
