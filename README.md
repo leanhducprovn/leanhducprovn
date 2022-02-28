@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Le Anh Duc</h1>
+<!-- <h1 align="center">Hi 👋, I'm Le Anh Duc</h1>
 <p align="center">I am a student majoring in <b>Computer Science</b> with the dream of becoming a professional developer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leanhducprovn&label=Profile%20views&color=0e75b6&style=flat" alt="leanhducprovn" /> </p>
@@ -60,7 +60,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support:</h3> -->
 
 <table>
     <tr>
