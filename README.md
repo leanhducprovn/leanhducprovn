@@ -62,20 +62,40 @@
 
 <h3 align="left">Support:</h3> -->
 
-<table>
+<!-- <table>
     <tr>
-        <td>
+        <td> -->
             <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leanhducprovn&show_icons=true&locale=en&layout=compact" alt="leanhducprovn" /> -->
-            <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leanhducprovn&date_format=M%20j%5B%2C%20Y%5D&fire=0969DA&currStreakLabel=0969DA&ring=0969DA" alt="leanhducprovn" />
+<!--             <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leanhducprovn&date_format=M%20j%5B%2C%20Y%5D&fire=0969DA&currStreakLabel=0969DA&ring=0969DA" alt="leanhducprovn" />
         </td>
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=leanhducprovn&show_icons=true&locale=en&icon_color=0969DA&include_all_commits=true&count_private=true" alt="leanhducprovn" />
         </td>
-    </tr>
+    </tr> -->
     <!-- <tr>
         <td align="center" colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanhducprovn&" alt="leanhducprovn" /></td>
     </tr> -->
-    <tr>
+<!--     <tr>
         <td colspan="2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=leanhducprovn&bg_color=ffffff&color=0969da&line=0969da&point=e63946&area=true&area_color=0969da" alt="leanhducprovn" /></td>
     </tr>
-</table>
+</table> -->
+
+<!-- TypeScrip -->
+```ts
+export class Developer {
+  public name: string = 'Le Anh Duc';
+  public age: number = 18;
+  public gender: string = 'Male';
+  public address: string = 'Dong Anh, Ha Noi, Viet Nam';
+  public skills: string[] = [
+    'Python',
+    'C/C++/C#',
+    'HTML/CSS/JavaScript',
+    'Angular',
+    'TypeScript',
+    'NodeJs',
+    'Mongodb',
+    ...
+  ];
+}
+```
