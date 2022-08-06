@@ -7,10 +7,11 @@ export class Developer {
     public skills: string[] = [
         'C/C++/C#',
         'HTML/CSS/JavaScript',
-        'Angular',
-        'TypeScript',
-        'NodeJS',
-        'Mongodb',
+        'Angular/React/Vue',
+        'TypeScript/ReactJS',
+        'NodeJS/Java Spring Boot',
+        'Flutter/React Native',
+        'MongoDB/SQL Server',
         ...
     ];
 }
