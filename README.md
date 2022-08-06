@@ -1,5 +1,5 @@
 ```ts
-class Developer {
+export class Developer {
     public name: string = 'Le Anh Duc';
     public age: number = 18;
     public gender: string = 'Male';
@@ -14,5 +14,4 @@ class Developer {
         ...
     ];
 }
-export default Developer;
 ```
